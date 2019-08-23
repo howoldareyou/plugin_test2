@@ -1,0 +1,16 @@
+{
+  "name": "测试插件",
+  "apis": [
+    {
+      "name": "测试接口2",
+      "auth": [
+        "nologin"
+      ],
+      "method": "get",
+      "url": "/dbaudit/main",
+      "param": [],
+      "action": "test2.main.index",
+      "desc": ""
+    }
+  ]
+}
